@@ -1,0 +1,22 @@
+/* =========================================
+   COLOR PALETTE DOCUMENTATION
+   Project  : Laundry Recommendation System
+   Purpose  : UI Color Reference
+   ========================================= */
+
+:root {
+    /* Background */
+    --color-background: #e0f2fe; /* Soft Blue */
+
+    /* Primary */
+    --color-primary: #0ea5e9; /* Ocean Blue */
+
+    /* Accent */
+    --color-accent: #facc15; /* Sun Yellow */
+
+    /* Text */
+    --color-text: #1f2937; /* Almost Black */
+
+    /* Divider / Card Border */
+    --color-border: #d1d5db; /* Light Gray */
+}
